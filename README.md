@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AayushDhanoa1353
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c language, html and linux
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...c language, html, linux, C++, JavaScript and React.
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript.
 - 📫 How to reach me ...you can contact me from my email-dhanoa.aayush4469@gmail.com
 
 <!---
